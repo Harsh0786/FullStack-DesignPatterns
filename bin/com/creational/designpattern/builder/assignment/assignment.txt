@@ -1,0 +1,16 @@
+Tennis Court Booking Application -
+Booking -
+i. Individual 
+ii. Coaching Session
+iii. Lifetime Member Group Booking
+
+Notifications -
+i. Security Person - SMS
+ii. Members - SMS, Email
+iii. Coach - SMS, Email
+iv. Facility Manager - Email
+
+Use Case -
+Individual Booking - Notify Security Person, Members
+Coaching Session - Notify Security Person, Members, Coach
+Lifetime Member - Notify Security Person, Members, Coach, Facility Manager
